@@ -1,6 +1,6 @@
 # Hate-Speech-Debias
 
-Data: Tweeter
+Data: Twitter
 
 Method:
 1. LSTM
