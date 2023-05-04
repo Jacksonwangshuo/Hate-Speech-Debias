@@ -1,4 +1,4 @@
-# Hate-Speech-Debias
+# Hate-Speech-Debias (Text Classification & Racial Debias)
 
 Data: Twitter
 
